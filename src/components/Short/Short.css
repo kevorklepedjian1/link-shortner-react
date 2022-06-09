@@ -166,12 +166,7 @@ input:focus {
   .copy-btn {
     width: 100%;
   }
-  .url {
-    width: 100%;
-    word-wrap: break-word;
-    border-bottom: 1px solid var(--grey);
-    padding: 20px;
-  }
+  
 }
 @media only screen and (min-width: 1250px) {
   .form {
@@ -194,13 +189,7 @@ input:focus {
     align-items: center;
     width: auto;
   }
-  .url {
-    border: none;
-  }
-  .short-copy p {
-    padding-right: 30px;
-    padding-bottom: 0;
-  }
+  
   .copy-btn {
     width: 120px;
   }
