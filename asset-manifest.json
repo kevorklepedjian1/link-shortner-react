@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/link-shortner-react/static/css/main.1bf443e4.chunk.css",
+    "main.js": "/link-shortner-react/static/js/main.2f059d50.chunk.js",
+    "main.js.map": "/link-shortner-react/static/js/main.2f059d50.chunk.js.map",
+    "runtime-main.js": "/link-shortner-react/static/js/runtime-main.6d90be76.js",
+    "runtime-main.js.map": "/link-shortner-react/static/js/runtime-main.6d90be76.js.map",
+    "static/js/2.0090fcaf.chunk.js": "/link-shortner-react/static/js/2.0090fcaf.chunk.js",
+    "static/js/2.0090fcaf.chunk.js.map": "/link-shortner-react/static/js/2.0090fcaf.chunk.js.map",
+    "static/js/3.871c8c03.chunk.js": "/link-shortner-react/static/js/3.871c8c03.chunk.js",
+    "static/js/3.871c8c03.chunk.js.map": "/link-shortner-react/static/js/3.871c8c03.chunk.js.map",
+    "index.html": "/link-shortner-react/index.html",
+    "static/css/main.1bf443e4.chunk.css.map": "/link-shortner-react/static/css/main.1bf443e4.chunk.css.map",
+    "static/js/2.0090fcaf.chunk.js.LICENSE.txt": "/link-shortner-react/static/js/2.0090fcaf.chunk.js.LICENSE.txt",
+    "static/media/Footer.css": "/link-shortner-react/static/media/bg-boost-mobile.4b04bd89.svg",
+    "static/media/Short.css": "/link-shortner-react/static/media/bg-shorten-desktop.0d9742f4.svg",
+    "static/media/icon-brand-recognition.c349d3b6.svg": "/link-shortner-react/static/media/icon-brand-recognition.c349d3b6.svg",
+    "static/media/icon-detailed-records.265c8aea.svg": "/link-shortner-react/static/media/icon-detailed-records.265c8aea.svg",
+    "static/media/icon-facebook.2578796a.svg": "/link-shortner-react/static/media/icon-facebook.2578796a.svg",
+    "static/media/icon-fully-customizable.a1532a74.svg": "/link-shortner-react/static/media/icon-fully-customizable.a1532a74.svg",
+    "static/media/icon-instagram.b3def803.svg": "/link-shortner-react/static/media/icon-instagram.b3def803.svg",
+    "static/media/icon-menu.61f4817f.svg": "/link-shortner-react/static/media/icon-menu.61f4817f.svg",
+    "static/media/icon-pinterest.e6c168a8.svg": "/link-shortner-react/static/media/icon-pinterest.e6c168a8.svg",
+    "static/media/icon-twitter.ff8265e8.svg": "/link-shortner-react/static/media/icon-twitter.ff8265e8.svg",
+    "static/media/illustration-working.c9b5ef54.svg": "/link-shortner-react/static/media/illustration-working.c9b5ef54.svg",
+    "static/media/logo-white.f4ffcbae.svg": "/link-shortner-react/static/media/logo-white.f4ffcbae.svg",
+    "static/media/logo.83464303.svg": "/link-shortner-react/static/media/logo.83464303.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d90be76.js",
+    "static/js/2.0090fcaf.chunk.js",
+    "static/css/main.1bf443e4.chunk.css",
+    "static/js/main.2f059d50.chunk.js"
+  ]
+}
